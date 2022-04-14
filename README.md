@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Tyom1ch
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me telegram @tyom1ch
+<ABOUT ME>
+👋 Hi, i am Tyom1ch (14 y.o). 🇺🇦 I live in Ukraine in a small village 🐾
+</>Im coding in a python 🐍, js ☕, and i making arduino projects 👨‍💻</>
+🔬 I'm gonna be better in programming and im educating myself 🔬
+</ABOUT ME>
+<MY PROJECTS>
 
-<!---
-Tyom1ch/Tyom1ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</MY PROJECTS>
