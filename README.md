@@ -39,3 +39,5 @@
 + ## [✨ Python first program ✨](https://tyom1ch.github.io/)
 + ## [✨ My devices ✨](https://tyom1ch.github.io/)
 + ## [✨ All projects ✨](https://tyom1ch.github.io/)
+
+# <p align="center"> ~ 👋 That's all 👋 ~ </p>
