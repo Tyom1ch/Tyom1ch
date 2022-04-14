@@ -4,7 +4,7 @@
 ## 🍩 Bio: 🍩
 <img src="https://c.tenor.com/6Gr-6QEvE7EAAAAd/school-live-cute.gif">
 
-🍩 I live in Ukraine (Chernivtsi city) 🍩 <br>
++ 🍩 I live in Ukraine (Chernivtsi city) 🍩 <br>
 
 ## ✨ My achievements: ✨
 + 🐍 Python 🐍
