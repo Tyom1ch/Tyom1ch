@@ -1,5 +1,21 @@
-<img src="https://i.pinimg.com/originals/9e/02/19/9e0219981bef57925b9f2c9dd49f2adc.jpg" width="440" height="250" />
+# ✨ Welcome! ✨
+![header](https://user-images.githubusercontent.com/39905530/163352307-3a1b027e-cb9f-4c35-9cea-75e945b9e3ee.png)
 
-👋 Hi, i am Tyom1ch (14 y.o). I live in Ukraine (Chernivtsi city)
-I'm coding in a python 🐍, js ☕, and i making arduino projects 👨‍💻
-🔬 I'm gonna be better in programming and i'm educating myself 🔬
+## 🍩 Bio: 🍩
+<img src="https://c.tenor.com/6Gr-6QEvE7EAAAAd/school-live-cute.gif">
+
+🍩 I live in Ukraine (Chernivtsi city) 🍩 <br>
+
+## ✨ My achievements: ✨
++ 🐍 Python 🐍
++ ☕ JavaScript ☕
++ 🐬 SQL 🐬
++ 🐘 PHP 🐘
++ 🌐 HTML 🌐
++ ✨ CSS ✨
+
+## 👨‍💻 My projects: 👨‍💻 
+
+![xrUl0ECFLekhWC2lITDreqBS4gTOIW2tyao1lL9bbw1KbSCgVwSx_2b43-IJVNqWuU9aH-yNXrYbFS](https://user-images.githubusercontent.com/39905530/163354115-3d600b2d-f234-465d-8bee-c2f38515d49f.gif) <br>
+
++ [✨ My website ✨](https://tyom1ch.github.io/)
