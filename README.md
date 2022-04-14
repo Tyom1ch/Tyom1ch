@@ -40,4 +40,18 @@
 + ## [✨ My devices ✨](https://tyom1ch.github.io/)
 + ## [✨ All projects ✨](https://tyom1ch.github.io/)
 
+<br>
+
 # <p align="center"> ~ 👋 That's all 👋 ~ </p>
+
+</p>
+
+<p align="center">
+
+<img align="center" src="https://64.media.tumblr.com/50f833ac434687ac55155852f68fe5a6/74a0cd354b168ecd-68/s500x750/403db6ad0ca30e0b2880b8b21e8b9c32c7d7226e.gifv">
+
+</p>
+
+# <p align="center"> ~ 👋 goodbye! 👋 ~ </p>
+
+</p>
