@@ -1,5 +1,7 @@
 # <p align="center"> ~ ✨ Welcome to my 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ✨ ~ </p>
 
+<img src="https://img.shields.io/github/watchers/Tyom1ch/Tyom1ch?style=social">
+
 <p align="center">
 <img src="https://c.tenor.com/6Gr-6QEvE7EAAAAd/school-live-cute.gif">
 </p>
@@ -9,6 +11,8 @@
 ## <p align="center"> 🍩 ~ Bio ~ 🍩 </p>
 
 <img align="right" src="https://i.pinimg.com/originals/09/e7/9b/09e79bb010560bc75b2d24c8bb80838d.gif">
+
+I am a self-taught programmer
 
 + **Name:**  Tyomich **real name Artem*
 + **Hobbys:**  anime, movies, programming, chatting
@@ -42,16 +46,6 @@
 
 <br>
 
-# <p align="center"> ~ 👋 That's all 👋 ~ </p>
-
-</p>
-
-<p align="center">
-
-<img align="center" src="https://64.media.tumblr.com/50f833ac434687ac55155852f68fe5a6/74a0cd354b168ecd-68/s500x750/403db6ad0ca30e0b2880b8b21e8b9c32c7d7226e.gifv">
-
-</p>
-
-# <p align="center"> ~ 👋 goodbye! 👋 ~ </p>
+# <p align="center"> ~ 👋 End. 👋 ~ </p>
 
 </p>
