@@ -39,10 +39,7 @@ I am a self-taught programmer
 
 <img align="right" src="https://user-images.githubusercontent.com/39905530/163354115-3d600b2d-f234-465d-8bee-c2f38515d49f.gif">
 
-+ ## [✨ My website ✨](https://tyom1ch.github.io/)
-+ ## [✨ Python first program ✨](https://tyom1ch.github.io/)
-+ ## [✨ My devices ✨](https://tyom1ch.github.io/)
-+ ## [✨ All projects ✨](https://tyom1ch.github.io/)
++ ## [✨ Latest: uMod ✨](https://github.com/Tyom1ch/uMod)
 
 <br>
 
