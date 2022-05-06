@@ -14,7 +14,7 @@
 
 I am a self-taught programmer
 
-+ **Name:**  Tyomich **real name Artem*
++ **Name:**  Tyomich **but my name is Artem*
 + **Hobbys:**  anime, movies, programming, chatting
 + **Work:**  False
 + **Country:**  Ukraine
