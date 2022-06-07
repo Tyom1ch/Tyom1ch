@@ -43,6 +43,6 @@ I am a self-taught programmer
 
 <br>
 
-# <p align="center"> ~ 👋 End. 👋 ~ </p>
+# <p align="center"> ~ 👋 End of page. Thx for reading! 👋 ~ </p>
 
 </p>
