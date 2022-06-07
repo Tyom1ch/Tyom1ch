@@ -14,10 +14,10 @@
 
 I am a self-taught programmer
 
-+ **Name:**  Tyomich **but my name is Artem*
-+ **Hobbys:**  anime, movies, programming, chatting
-+ **Work:**  False
-+ **Country:**  Ukraine
++ **Name:**  Artem (Артем)
++ **Hobbys:**  drawing, fly simulators, math and physics
++ **Work >>**  False
++ **Live in:*  Ukraine
 
 ## <p align="center"> ✨ ~ My knowledge ~ ✨
   
