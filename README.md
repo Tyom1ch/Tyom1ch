@@ -8,7 +8,7 @@
 
 
 
-## <p align="center"> 🍩 ~ Bio ~ 🍩 </p>
+## <p align="center"> 🍩 ~ Про мене: ~ 🍩 </p>
 
 <img align="right" src="https://i.pinimg.com/originals/09/e7/9b/09e79bb010560bc75b2d24c8bb80838d.gif">
 
@@ -34,11 +34,11 @@
 
 </p>
 
-## 👨‍💻 ~ Мої роботи ~ 👨‍💻 
+## 👨‍💻 ~ Мої роботи: ~ 👨‍💻 
 
 <img align="right" src="https://user-images.githubusercontent.com/39905530/163354115-3d600b2d-f234-465d-8bee-c2f38515d49f.gif">
 
-+ ## [✨ Осатання з усіх: uMod ✨](https://github.com/Tyom1ch/uMod)
++ ## [✨ Остання з усіх: uMod ✨](https://github.com/Tyom1ch/uMod)
 
 <br>
 
