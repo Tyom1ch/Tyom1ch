@@ -1,4 +1,4 @@
-# <p align="center"> ~ ✨ Welcome to my 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ✨ ~ </p>
+# <p align="center"> ~ ✨ Ласкаво просимо! ✨ ~ </p>
 
 <img src="https://img.shields.io/github/watchers/Tyom1ch/Tyom1ch?style=social">
 
@@ -12,14 +12,13 @@
 
 <img align="right" src="https://i.pinimg.com/originals/09/e7/9b/09e79bb010560bc75b2d24c8bb80838d.gif">
 
-I am a self-taught programmer
+Я 14-річний розробник-самоучка з Чернівецької області ;)
 
-+ **Name:**  Artem (Артем)
-+ **Hobbys:**  drawing, fly simulators, math and physics
-+ **Work >>**  False
-+ **Live in:*  Ukraine
++ **Ім'я:**  Артем
++ **Хоббі:**  drawing, fly simulators, math and physics
++ **Країна:*  Україна
 
-## <p align="center"> ✨ ~ My knowledge ~ ✨
+## <p align="center"> ✨ ~ Мої знання: ~ ✨
   
 </p>
 
@@ -35,14 +34,14 @@ I am a self-taught programmer
 
 </p>
 
-## 👨‍💻 ~ My 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 👨‍💻 
+## 👨‍💻 ~ Мої роботи ~ 👨‍💻 
 
 <img align="right" src="https://user-images.githubusercontent.com/39905530/163354115-3d600b2d-f234-465d-8bee-c2f38515d49f.gif">
 
-+ ## [✨ Latest: uMod ✨](https://github.com/Tyom1ch/uMod)
++ ## [✨ Осатання з усіх: uMod ✨](https://github.com/Tyom1ch/uMod)
 
 <br>
 
-# <p align="center"> ~ 👋 End of page. Thx for reading! 👋 ~ </p>
+# <p align="center"> ~ 👋 Кінець 👋 ~ </p>
 
 </p>
